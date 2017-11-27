@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\FoodCalculater\FoodCalculater\bin\Debug\FoodCalculater.exe.config
+C:\Users\Administrator\source\repos\FoodCalculater\FoodCalculater\bin\Debug\FoodCalculater.exe
+C:\Users\Administrator\source\repos\FoodCalculater\FoodCalculater\bin\Debug\FoodCalculater.pdb
+C:\Users\Administrator\source\repos\FoodCalculater\FoodCalculater\obj\Debug\FoodCalculater.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\source\repos\FoodCalculater\FoodCalculater\obj\Debug\FoodCalculater.Properties.Resources.resources
+C:\Users\Administrator\source\repos\FoodCalculater\FoodCalculater\obj\Debug\FoodCalculater.csproj.GenerateResource.Cache
+C:\Users\Administrator\source\repos\FoodCalculater\FoodCalculater\obj\Debug\FoodCalculater.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\FoodCalculater\FoodCalculater\obj\Debug\FoodCalculater.exe
+C:\Users\Administrator\source\repos\FoodCalculater\FoodCalculater\obj\Debug\FoodCalculater.pdb
+C:\Users\Administrator\source\repos\FoodCalculater\FoodCalculater\obj\Debug\FoodCalculater.calo.resources
+C:\Users\Administrator\source\repos\FoodCalculater\FoodCalculater\obj\Debug\FoodCalculater.Food.resources
+C:\Users\Administrator\source\repos\FoodCalculater\FoodCalculater\obj\Debug\FoodCalculater.Form3.resources
+C:\Users\Administrator\source\repos\FoodCalculater\FoodCalculater\obj\Debug\FoodCalculater.Form4.resources
